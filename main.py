@@ -5,6 +5,7 @@ print("1.Write new entry")
 print("2.View all entries")
 print("3.Search entry")
 print("4.Exit")
+print("GitHub remote change")
 
 choice=int(input("Enter your choice (1-4):"))
 
