@@ -30,6 +30,7 @@ else:
 
     print("delete entry feature")
 
+    print("branch push practice")
 
      # no need to write like result=journal.write_entry like that, see i am not going to print anything, it happes automatic so no need 
 
