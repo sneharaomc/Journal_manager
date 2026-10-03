@@ -28,6 +28,7 @@ elif choice==4:
 else:
     print("Invalid choice, please enter 1 2 3 or 4")
 
+    print("delete entry feature")
 
 
      # no need to write like result=journal.write_entry like that, see i am not going to print anything, it happes automatic so no need 
